@@ -1,0 +1,29 @@
+# Bytecode / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments & local tooling
+.venv/
+.env
+.env.*
+.python-version
+
+# Packaging / build
+dist/
+build/
+*.egg-info/
+
+# Editor / OS cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Test & coverage artifacts
+.pytest_cache/
+.coverage
+coverage.xml
+
+# Logs
+*.log
